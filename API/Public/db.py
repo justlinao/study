@@ -65,5 +65,5 @@ class DB:
 
 
 if __name__ == '__main__':
-    DB().query_db('INSERT INTO `bcy_ad_user_test`(device_id,avg_time,avg_like,interval_day) VALUES(6689405424888232737,1,1,2)')
+    DB().query_db('INSERT INTO `bcy_ad_user_test`(device_id,avg_time,avg_like,interval_day) VALUES(6689405424888224698,2000,1,2)')
 

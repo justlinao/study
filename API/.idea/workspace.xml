@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393fd8f6-72a0-471d-b4be-66e4e234cab3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/API.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/dictionaries/bytedance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/bytedance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Config/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Config/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Config/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Log/201909191542.log" beforeDir="false" afterPath="$PROJECT_DIR$/Log/201909191542.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Public/api_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/api_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Public/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Public/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_case/test_001_jianshu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_case/test_001_jianshu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_case/test_002_baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_case/test_002_baidu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_case/test_003_bcy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_case/test_003_bcy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_case/test_004_comic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_case/test_004_comic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_report/HTMLTestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test_report/HTMLTestRunner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_suite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_suite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API2/Test_suite/test_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_suite/test_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_report/HTMLTestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test_report/HTMLTestRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_suite/test_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_suite/test_suite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +15,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/API$read_csv.coverage" NAME="read_csv Coverage Results" MODIFIED="1568799152731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
-    <SUITE FILE_PATH="coverage/API$db.coverage" NAME="db Coverage Results" MODIFIED="1568950653470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public" />
+    <SUITE FILE_PATH="coverage/API$db.coverage" NAME="db Coverage Results" MODIFIED="1569219631669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public" />
     <SUITE FILE_PATH="coverage/API$Unittests_in_test_004_comic_py.coverage" NAME="Unittests in test_004_comic.py Coverage Results" MODIFIED="1568799091992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_case" />
     <SUITE FILE_PATH="coverage/API$log.coverage" NAME="log Coverage Results" MODIFIED="1567412118974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public" />
-    <SUITE FILE_PATH="coverage/API$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1568878947267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_suite" />
+    <SUITE FILE_PATH="coverage/API$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1569494667280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_suite" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_suite/test_suite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+            <state relative-caret-position="220">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -83,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="1496">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -120,17 +104,18 @@
         <option value="$PROJECT_DIR$/Test_case/test_004_comic.py" />
         <option value="$PROJECT_DIR$/Config/test.csv" />
         <option value="$PROJECT_DIR$/Config/read_csv.py" />
-        <option value="$PROJECT_DIR$/Test_suite/test_suite.py" />
         <option value="$PROJECT_DIR$/Test_case/test_001_jianshu.py" />
         <option value="$PROJECT_DIR$/Public/db.py" />
+        <option value="$PROJECT_DIR$/Public/__init__.py" />
+        <option value="$PROJECT_DIR$/Test_suite/test_suite.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1513" />
-    <option name="y" value="-114" />
+    <option name="x" value="-1587" />
+    <option name="y" value="-149" />
     <option name="width" value="1440" />
-    <option name="height" value="834" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,8 +123,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.db">
+  <component name="RunManager" selected="Python.test_suite">
     <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="API" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,8 +283,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.db" />
         <item itemvalue="Python.test_suite" />
+        <item itemvalue="Python.db" />
         <item itemvalue="Python.read_csv" />
         <item itemvalue="Python tests.Unittests in test_004_comic.py" />
         <item itemvalue="Python.log" />
@@ -296,6 +306,8 @@
       <workItem from="1568794017719" duration="10263000" />
       <workItem from="1568968649932" duration="203000" />
       <workItem from="1568972667264" duration="52000" />
+      <workItem from="1569219151411" duration="1254000" />
+      <workItem from="1569494658681" duration="412000" />
     </task>
     <servers />
   </component>
@@ -332,7 +344,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37596000" />
+    <option name="totallyTimeSpent" value="39262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,15 +356,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1513" y="-114" width="1440" height="834" extended-state="0" />
+    <frame x="-1587" y="-149" width="1440" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14592275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40120482" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3991881" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,7 +373,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3301759" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -374,7 +386,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Log/201908301809.log" />
     <entry file="file://$PROJECT_DIR$/Log/201908301813.log" />
     <entry file="file://$PROJECT_DIR$/Log/201908301824.log" />
     <entry file="file://$PROJECT_DIR$/Log/201908301845.log" />
@@ -485,16 +496,6 @@
     <entry file="file://$PROJECT_DIR$/Log/201909191526.log" />
     <entry file="file://$PROJECT_DIR$/Log/201909191530.log" />
     <entry file="file://$PROJECT_DIR$/Log/201909191439.log" />
-    <entry file="file://$PROJECT_DIR$/Test_suite/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Log/201909191542.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="88">
@@ -524,10 +525,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="1496">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_suite/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

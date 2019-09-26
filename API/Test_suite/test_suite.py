@@ -10,6 +10,7 @@ from email.mime.application import MIMEApplication
 from email.utils import parseaddr, formataddr
 
 
+
 def _format_addr(s):
     name, addr = parseaddr(s)
     return formataddr((Header(name, 'utf-8').encode(), addr))
