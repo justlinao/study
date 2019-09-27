@@ -8,7 +8,11 @@ from HTMLTestRunner import HTMLTestRunner
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 from email.utils import parseaddr, formataddr
-
+import sys
+# print(sys.path)
+import os
+os.chdir('/Users/bytedance/linao/API')
+sys.path.append('/Users/bytedance/linao/API')
 
 
 def _format_addr(s):

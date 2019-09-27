@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="393fd8f6-72a0-471d-b4be-66e4e234cab3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_report/HTMLTestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test_report/HTMLTestRunner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_suite/test_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_suite/test_suite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-1587" />
     <option name="y" value="-149" />
     <option name="width" value="1440" />
@@ -123,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,26 +128,10 @@
               <item name="API" type="b2602c69:ProjectViewProjectNode" />
               <item name="API" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
-              <item name="Public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_suite" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,6 +290,8 @@
       <workItem from="1568972667264" duration="52000" />
       <workItem from="1569219151411" duration="1254000" />
       <workItem from="1569494658681" duration="412000" />
+      <workItem from="1569579315049" duration="28000" />
+      <workItem from="1569580219863" duration="220000" />
     </task>
     <servers />
   </component>
@@ -344,7 +328,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39262000" />
+    <option name="totallyTimeSpent" value="39510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,10 +340,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1587" y="-149" width="1440" height="831" extended-state="0" />
+    <frame x="-1920" y="-250" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115015976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -496,6 +480,17 @@
     <entry file="file://$PROJECT_DIR$/Log/201909191526.log" />
     <entry file="file://$PROJECT_DIR$/Log/201909191530.log" />
     <entry file="file://$PROJECT_DIR$/Log/201909191439.log" />
+    <entry file="file://$PROJECT_DIR$/Public/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Test_suite/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Log/201909191542.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="88">
@@ -529,26 +524,6 @@
           <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_suite/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
