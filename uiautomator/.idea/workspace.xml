@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/call_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect_devices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiautomator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiautomator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +13,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1cIpTTC4mA7ChVyg1P0vFL9eLet" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +36,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="call_phone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="uiautomator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/call_phone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.call_phone" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590225970019</updated>
-      <workItem from="1590225979844" duration="254000" />
+      <workItem from="1590225979844" duration="1498000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
@@ -57,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590226080311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="创建一个UI自动化目录">
+      <created>1590226389600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590226389600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,13 +116,32 @@
     <option name="LAST_COMMIT_MESSAGE" value="创建一个UI自动化目录" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590226249636">
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590226388671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226249636" />
-    <state x="483" y="216" key="SettingsEditor" timestamp="1590226234703">
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226388671" />
+    <state width="1340" height="286" key="GridCell.Tab.0.bottom" timestamp="1590227458612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="483" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590226234703" />
+    <state width="1340" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590227458612" />
+    <state width="1340" height="286" key="GridCell.Tab.0.center" timestamp="1590227458612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590227458612" />
+    <state width="1340" height="286" key="GridCell.Tab.0.left" timestamp="1590227458612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590227458612" />
+    <state width="1340" height="286" key="GridCell.Tab.0.right" timestamp="1590227458612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590227458612" />
+    <state x="483" y="216" key="SettingsEditor" timestamp="1590226944832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590226944832" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/uiautomator$call_phone.coverage" NAME="call_phone Coverage Results" MODIFIED="1590227458602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
