@@ -116,10 +116,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="创建一个UI自动化目录" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590226388671">
+    <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590227527078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226388671" />
+    <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590227527078" />
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590227505850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590227505850" />
     <state width="1340" height="286" key="GridCell.Tab.0.bottom" timestamp="1590227458612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

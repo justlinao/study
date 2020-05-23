@@ -1,0 +1,4 @@
+给设备安装uiautomator2
+    ·python -m uiautomator2 init
+获取手机元素
+    ·python -m weditor
