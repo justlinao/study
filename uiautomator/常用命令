@@ -2,3 +2,9 @@
     ·python -m uiautomator2 init
 获取手机元素
     ·python -m weditor
+获取app的包名
+    ·打开想要获取包名的app，在控制台输入以下命令
+    ·adb shell dumpsys window | findstr mCurrentFocus
+    ·获取到的结果
+    ·mCurrentFocus=Window{bd1bb71 u0 com.xiaoniu.showlive/com.xiaoniu.showlive.MainActivity}
+    ·com.xiaoniu.showlive 包名
