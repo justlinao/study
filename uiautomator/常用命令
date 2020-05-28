@@ -8,3 +8,5 @@
     ·获取到的结果
     ·mCurrentFocus=Window{bd1bb71 u0 com.xiaoniu.showlive/com.xiaoniu.showlive.MainActivity}
     ·com.xiaoniu.showlive 包名
+多个设备选择其中一个
+    ·adb -s deviceID install packagename

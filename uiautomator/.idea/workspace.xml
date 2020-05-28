@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/start_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect_devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/connect_devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用命令" beforeDir="false" afterPath="$PROJECT_DIR$/常用命令" afterDir="false" />
-    </list>
+    <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +109,7 @@
       <updated>1590225970019</updated>
       <workItem from="1590225979844" duration="1720000" />
       <workItem from="1590387861731" duration="102000" />
-      <workItem from="1590403552355" duration="461000" />
+      <workItem from="1590403552355" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
@@ -144,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590227697613</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="增加一个启动app的方法">
+      <created>1590404053275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590404053275</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,33 +156,34 @@
     <MESSAGE value="创建一个UI自动化目录" />
     <MESSAGE value="连接手机设备成功，正常调用元素" />
     <MESSAGE value="添加手机连接命令" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加手机连接命令" />
+    <MESSAGE value="增加一个启动app的方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加一个启动app的方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590227527078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590227527078" />
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590227696650">
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1590404052182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590227696650" />
-    <state width="1340" height="286" key="GridCell.Tab.0.bottom" timestamp="1590227702692">
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590404052182" />
+    <state width="1340" height="279" key="GridCell.Tab.0.bottom" timestamp="1590404075404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590227702692" />
-    <state width="1340" height="286" key="GridCell.Tab.0.center" timestamp="1590227702692">
+    <state width="1340" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590404075404" />
+    <state width="1340" height="279" key="GridCell.Tab.0.center" timestamp="1590404075403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590227702692" />
-    <state width="1340" height="286" key="GridCell.Tab.0.left" timestamp="1590227702691">
+    <state width="1340" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590404075403" />
+    <state width="1340" height="279" key="GridCell.Tab.0.left" timestamp="1590404075403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590227702691" />
-    <state width="1340" height="286" key="GridCell.Tab.0.right" timestamp="1590227702692">
+    <state width="1340" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590404075403" />
+    <state width="1340" height="279" key="GridCell.Tab.0.right" timestamp="1590404075404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590227702692" />
+    <state width="1340" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590404075404" />
     <state x="483" y="216" key="SettingsEditor" timestamp="1590226944832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
