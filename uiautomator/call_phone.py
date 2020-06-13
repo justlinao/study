@@ -1,17 +1,14 @@
 from connect_devices import connect
 d = connect()
 
+# 私聊发言
+
 
 def call():
-    d(text='电话').click()
-    d(text='1').click()
-    d(text='8').click()
-    d(text='1').click()
-    d(text='1').click()
-    d(text='9').click()
-    d(text='6').click()
-    d(text='7').click()
+    d(resourceId='com.xiaoniu.showlive:id/msg_edt_input').send_keys('啊啦啦啦啦啦啦啦啦啦')
+    d(resourceId='com.xiaoniu.showlive:id/iv_send').click()
 
 
 if __name__ == '__main__':
-    call()
+    for i in range(1000):
+        call()
