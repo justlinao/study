@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/click_gift_back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monkey_GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monkey_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/monkey_GUI.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/warn-monkey_GUI.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/xref-monkey_GUI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/monkey_GUI.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monkey_GUI.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect_devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/connect_devices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monkey_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/monkey_GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用命令" beforeDir="false" afterPath="$PROJECT_DIR$/常用命令" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -190,7 +201,7 @@
       <workItem from="1592487501983" duration="11280000" />
       <workItem from="1593225507595" duration="22000" />
       <workItem from="1593336223509" duration="4899000" />
-      <workItem from="1593657243042" duration="3979000" />
+      <workItem from="1593657243042" duration="5855000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
@@ -248,29 +259,38 @@
       <option name="project" value="LOCAL" />
       <updated>1592570563732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加monkey_GUI可视化工具，使用pyqt5_toos">
+      <created>1593668707591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593668707591</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="创建一个UI自动化目录" />
     <MESSAGE value="连接手机设备成功，正常调用元素" />
     <MESSAGE value="添加手机连接命令" />
     <MESSAGE value="增加一个启动app的方法" />
     <MESSAGE value="增加多个设备选取其中一个adb命令" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加多个设备选取其中一个adb命令" />
+    <MESSAGE value="增加monkey_GUI可视化工具，使用pyqt5_toos" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加monkey_GUI可视化工具，使用pyqt5_toos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590227527078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590227527078" />
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1592570561622">
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1593668706456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592570561622" />
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593668706456" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593658475958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -295,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="483" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590226944832" />
-    <state x="578" y="310" key="Vcs.Push.Dialog.v2" timestamp="1592570567550">
+    <state x="578" y="310" key="Vcs.Push.Dialog.v2" timestamp="1593668714682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="578" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592570567550" />
+    <state x="578" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593668714682" />
     <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1593657243765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

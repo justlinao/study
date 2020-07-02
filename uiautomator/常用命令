@@ -10,3 +10,11 @@
     ·com.xiaoniu.showlive 包名
 多个设备选择其中一个
     ·adb -s deviceID install packagename
+
+
+python文件打包成exe文件
+    ·安装pyinstaller，在cmd窗口使用pip install pyinstaller安装
+    ·cd 到你的文件目录cd E:\Code\uiautomator\monkey_GUI.py
+    ·运行pyinstaller -F monkey_GUI.py，注意-F是大写
+    ·看结果，结果在新生成的文件夹dist下就有monkey_GUI.exe
+    ·运行pyinstaller -F monkey_GUI.py后的exe打开时总是先有一个cmd窗口出现，要去掉的话应该用运行pyinstaller -F -w monkey.py
