@@ -5,7 +5,7 @@ import uiautomator2 as u2
 
 
 def connect():
-    d = u2.connect_usb('UYT0217B17005916')
+    d = u2.connect_usb('CUYDU19621005687')
     return d
 
 
