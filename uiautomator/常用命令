@@ -18,3 +18,6 @@ python文件打包成exe文件
     ·运行pyinstaller -F monkey_GUI.py，注意-F是大写
     ·看结果，结果在新生成的文件夹dist下就有monkey_GUI.exe
     ·运行pyinstaller -F monkey_GUI.py后的exe打开时总是先有一个cmd窗口出现，要去掉的话应该用运行pyinstaller -F -w monkey.py
+
+
+ k8slogs qx  fat-default  qxroom |grep "结束直播"  # grep正则匹配日志

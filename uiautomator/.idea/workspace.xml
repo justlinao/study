@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/monkey_GUI.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/warn-monkey_GUI.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/monkey_GUI/xref-monkey_GUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/monkey_GUI.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/monkey_GUI.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wechat_auto_chat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/monkey_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/monkey_GUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/常用命令" beforeDir="false" afterPath="$PROJECT_DIR$/常用命令" afterDir="false" />
@@ -47,10 +43,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/xiaoniuhy_interface_code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.monkey_GUI">
+  <component name="RunManager" selected="Python.wechat_auto_chat">
     <configuration name="click_gift_back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="uiautomator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,28 +61,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/click_gift_back.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="connect_devices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="uiautomator" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/connect_devices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +135,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wechat_auto_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="uiautomator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wechat_auto_chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wechat_auto_chat" />
         <item itemvalue="Python.monkey_GUI" />
         <item itemvalue="Python.click_gift_back" />
         <item itemvalue="Python.send_gift" />
         <item itemvalue="Python.speak" />
-        <item itemvalue="Python.connect_devices" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +197,9 @@
       <workItem from="1592487501983" duration="11280000" />
       <workItem from="1593225507595" duration="22000" />
       <workItem from="1593336223509" duration="4899000" />
-      <workItem from="1593657243042" duration="5855000" />
+      <workItem from="1593657243042" duration="15099000" />
+      <workItem from="1597222997181" duration="1425000" />
+      <workItem from="1597286616765" duration="5162000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
@@ -266,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593668707591</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="py文件转化成exe">
+      <created>1593681845987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593681845987</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,55 +285,57 @@
     <MESSAGE value="增加一个启动app的方法" />
     <MESSAGE value="增加多个设备选取其中一个adb命令" />
     <MESSAGE value="增加monkey_GUI可视化工具，使用pyqt5_toos" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加monkey_GUI可视化工具，使用pyqt5_toos" />
+    <MESSAGE value="py文件转化成exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="py文件转化成exe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590227527078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590227527078" />
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1593668706456">
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1593681844401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593668706456" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593658475958">
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593681844401" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597299846022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593658475958" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1593668244487">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597299846022" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597289228205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593668244487" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1593668244487">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597289228205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593668244487" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1593668244487">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597289228204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593668244487" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1593668244487">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228204" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597289228205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593668244487" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
     <state x="483" y="216" key="SettingsEditor" timestamp="1590226944832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="483" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590226944832" />
-    <state x="578" y="310" key="Vcs.Push.Dialog.v2" timestamp="1593668714682">
+    <state x="578" y="310" key="Vcs.Push.Dialog.v2" timestamp="1593681849241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="578" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593668714682" />
-    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1593657243765">
+    <state x="578" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593681849241" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1597286627406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593657243765" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597286627406" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/uiautomator$connect_devices.coverage" NAME="connect_devices Coverage Results" MODIFIED="1590403746973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uiautomator$wechat_auto_chat.coverage" NAME="wechat_auto_chat Coverage Results" MODIFIED="1597289228198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uiautomator$call_phone.coverage" NAME="call_phone Coverage Results" MODIFIED="1591686543090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uiautomator$send_gift.coverage" NAME="send_gift Coverage Results" MODIFIED="1592558263820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/uiautomator$monkey_GUI.coverage" NAME="monkey_GUI Coverage Results" MODIFIED="1593668244476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uiautomator$monkey_GUI.coverage" NAME="monkey_GUI Coverage Results" MODIFIED="1597234462964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uiautomator$click_gift_back.coverage" NAME="click_gift_back Coverage Results" MODIFIED="1593360669903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
