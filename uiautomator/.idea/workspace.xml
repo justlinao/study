@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/.idea/flask.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monkey_GUI.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_auto_chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monkey_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/monkey_GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用命令" beforeDir="false" afterPath="$PROJECT_DIR$/常用命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/the_first_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/wxrobot/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +199,7 @@
       <workItem from="1593336223509" duration="4899000" />
       <workItem from="1593657243042" duration="15099000" />
       <workItem from="1597222997181" duration="1425000" />
-      <workItem from="1597286616765" duration="5162000" />
+      <workItem from="1597286616765" duration="5212000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
@@ -271,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593681845987</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="微信窗口UI 自动化">
+      <created>1597373133391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597373133391</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,37 +293,38 @@
     <MESSAGE value="增加多个设备选取其中一个adb命令" />
     <MESSAGE value="增加monkey_GUI可视化工具，使用pyqt5_toos" />
     <MESSAGE value="py文件转化成exe" />
-    <option name="LAST_COMMIT_MESSAGE" value="py文件转化成exe" />
+    <MESSAGE value="微信窗口UI 自动化" />
+    <option name="LAST_COMMIT_MESSAGE" value="微信窗口UI 自动化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590227527078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590227527078" />
-    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1593681844401">
+    <state x="582" y="166" key="CommitChangelistDialog2" timestamp="1597373131750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593681844401" />
+    <state x="582" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597373131750" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597299846022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597299846022" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597289228205">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597373141215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597289228205">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597373141215" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597373141215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597289228204">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597373141215" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597373141215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228204" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597289228205">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597373141215" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597373141215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597289228205" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597373141215" />
     <state x="483" y="216" key="SettingsEditor" timestamp="1590226944832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
