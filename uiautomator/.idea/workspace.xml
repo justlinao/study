@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb17bed6-1f39-4db6-9511-50bd84575560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/the_first_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/wxrobot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/Flask_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_1/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.wechat_auto_chat">
@@ -200,6 +195,7 @@
       <workItem from="1593657243042" duration="15099000" />
       <workItem from="1597222997181" duration="1425000" />
       <workItem from="1597286616765" duration="5212000" />
+      <workItem from="1598337506525" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个UI自动化目录">
       <created>1590226080311</created>
